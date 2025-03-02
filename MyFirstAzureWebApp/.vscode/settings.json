@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net9.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/1acb85c7-dea7-49a6-83a4-74ba11c0f29f/resourceGroups/rgdevcan/providers/Microsoft.Web/sites/ffo-app-service-learn"
+}

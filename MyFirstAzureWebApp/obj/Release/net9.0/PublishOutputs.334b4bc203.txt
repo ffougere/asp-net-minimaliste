@@ -1,0 +1,7 @@
+/applications/git/asp-net-minimaliste/MyFirstAzureWebApp/bin/Release/net9.0/publish/MyFirstAzureWebApp
+/applications/git/asp-net-minimaliste/MyFirstAzureWebApp/bin/Release/net9.0/publish/appsettings.Development.json
+/applications/git/asp-net-minimaliste/MyFirstAzureWebApp/bin/Release/net9.0/publish/appsettings.json
+/applications/git/asp-net-minimaliste/MyFirstAzureWebApp/bin/Release/net9.0/publish/MyFirstAzureWebApp.dll
+/applications/git/asp-net-minimaliste/MyFirstAzureWebApp/bin/Release/net9.0/publish/MyFirstAzureWebApp.deps.json
+/applications/git/asp-net-minimaliste/MyFirstAzureWebApp/bin/Release/net9.0/publish/MyFirstAzureWebApp.runtimeconfig.json
+/applications/git/asp-net-minimaliste/MyFirstAzureWebApp/bin/Release/net9.0/publish/MyFirstAzureWebApp.pdb
