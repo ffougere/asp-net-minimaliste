@@ -47,5 +47,6 @@ stages:
               #appName: '<Your Azure Web App Name>'
               #package: '$(Build.ArtifactStagingDirectory)'
               azureSubscription: 'AzureService'
+              appType: 'webAppLinux'
               appName: 'webappffo'
               package: '$(Build.ArtifactStagingDirectory)'
