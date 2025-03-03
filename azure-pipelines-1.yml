@@ -46,6 +46,6 @@ stages:
               #azureSubscription: '<Your Azure Service Connection>'
               #appName: '<Your Azure Web App Name>'
               #package: '$(Build.ArtifactStagingDirectory)'
-              azureSubscription: '<Your Azure Service Connection>'
+              azureSubscription: 'AzureService'
               appName: 'webappffo'
               package: '$(Build.ArtifactStagingDirectory)'
