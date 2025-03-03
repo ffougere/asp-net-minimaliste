@@ -22,11 +22,11 @@ steps:
 #- script: dotnet build --configuration Release
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'Build the project - dotnet build $(buildConfiguration)'
-  workingDirectory: 'src/MyFirstAzureWebApp'  # Change this path
+  workingDirectory: 'MyFirstAzureWebApp'  # Change this path
 
 - script: dotnet publish -c Release -o $(Build.ArtifactStagingDirectory)
   displayName: 'Publish the app'
-  workingDirectory: 'src/MyFirstAzureWebApp'  # Change this path
+  workingDirectory: 'MyFirstAzureWebApp'  # Change this path
 
 - task: PublishBuildArtifacts@1
   inputs:
